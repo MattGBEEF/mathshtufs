@@ -24,8 +24,7 @@ Range;
 
 ## [ - - - - 9/18/24 - - - - ]
 
-## [ - - - - 9/19/24 - - - - ]
-
+***QUIZ DAY***
 
 
 # [ - - - - Definitions - - - - ]
@@ -81,14 +80,23 @@ One value is greater or less than the other | < > ≥ ≤
 ## Sept. 18 Quiz
 
  - Number Sets
+ 
  - Function
+ 
  - Interval Notation
+ 
  - Definitions
+ 
  - 1 to 1
+ 
  - Set Notation
+ 
  - Inequalities
+ 
  - Terms
+ 
  - Expressions
+
  - Relations
 
 </details>
